@@ -1,14 +1,44 @@
-[ 
+[
   {
     "name": "Cesium",
-    "version": "1.4.1",
-    "description": "The ultimate shell for the TI-84 Plus CE. Gives you a beautiful menu to launch assembly, C, and Basic programs.",
-    "downloadUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/downloads/cesium.8xp"
+    "version": "3.7.0",
+    "description": "Cesium is a shell for the TI-84 Plus CE / TI-83 Premium CE calculators.",
+    "downloadUrl": "https://raw.githubusercontent.com/realgptv01/TI-Apps/main/cesium_english.zx0.8xp",
+    "fileType": "8xp"
   },
   {
-    "name": "TraphiCE",
-    "version": "1.0.0",
-    "description": "A full-featured graphing and utility tool for geometry and advanced math.",
-    "downloadUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/downloads/traphice.8xp"
+    "name": "arTIfiCE",
+    "version": "2.1",
+    "description": "arTIfiCE is a jailbreak for TI CE calculators. It brings back ASM programs and games!",
+    "downloadUrl": "https://github.com/YvanTT/arTIfiCE/releases/download/v2.1/arTIfiCE_v2.1.8xp",
+    "fileType": "8xp"
+  },
+  {
+    "name": "Pac-Man",
+    "version": "N/A",
+    "description": "Pac-Man in the TI-84!",
+    "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/PacMan.zip",
+    "fileType": "zip"
+  },
+  {
+    "name": "Flappy Bird",
+    "version": "N/A",
+    "description": "I take no responsibility if you smash your calculator.",
+    "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Flappy%20Bird.zip",
+    "fileType": "zip"
+  },
+  {
+    "name": "Geometry Dash",
+    "version": "N/A",
+    "description": "From the phone to the calculator.",
+    "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Geometry%20Dash.zip",
+    "fileType": "zip"
+  },
+  {
+    "name": "Mario",
+    "version": "N/A",
+    "description": "It’s a-me, Mario!",
+    "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Oiram(Mario).zip",
+    "fileType": "zip"
   }
 ]
