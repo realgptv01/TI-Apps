@@ -1,0 +1,14 @@
+[ 
+  {
+    "name": "Cesium",
+    "version": "1.4.1",
+    "description": "The ultimate shell for the TI-84 Plus CE. Gives you a beautiful menu to launch assembly, C, and Basic programs.",
+    "downloadUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/downloads/cesium.8xp"
+  },
+  {
+    "name": "TraphiCE",
+    "version": "1.0.0",
+    "description": "A full-featured graphing and utility tool for geometry and advanced math.",
+    "downloadUrl": "https://raw.githubusercontent.com/yourusername/yourrepo/main/downloads/traphice.8xp"
+  }
+]
