@@ -6,6 +6,7 @@
     "downloadUrl": "https://raw.githubusercontent.com/realgptv01/TI-Apps/main/cesium_english.zx0.8xp",
     "fileType": "8xp"
     "imageUrl": "https://github.com/mateoconlechuga/cesium/raw/master/screenshots/screenshot_prgms.png"
+    "compatibility": ["plusce"]
   },
   {
     "name": "arTIfiCE",
@@ -13,6 +14,7 @@
     "description": "arTIfiCE is a jailbreak for TI CE calculators. It brings back ASM programs and games!",
     "downloadUrl": "https://github.com/YvanTT/arTIfiCE/releases/download/v2.1/arTIfiCE_v2.1.8xp",
     "fileType": "8xp"
+    "compatibility": ["plusce", "pluscse"]
   },
   {
     "name": "Pac-Man",
@@ -20,6 +22,7 @@
     "description": "Pac-Man in the TI-84!",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/PacMan.zip",
     "fileType": "zip"
+    "compatibility": ["plusce", "pluscse"]
   },
   {
     "name": "Flappy Bird",
@@ -27,6 +30,7 @@
     "description": "I take no responsibility if you smash your calculator.",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Flappy%20Bird.zip",
     "fileType": "zip"
+    "compatibility": ["plusce"]
   },
   {
     "name": "Geometry Dash",
@@ -34,6 +38,7 @@
     "description": "From the phone to the calculator.",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Geometry%20Dash.zip",
     "fileType": "zip"
+    "compatibility": ["plusce"]
   },
   {
     "name": "Mario",
@@ -41,5 +46,6 @@
     "description": "It’s a-me, Mario!",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Oiram(Mario).zip",
     "fileType": "zip"
+    "compatibility": ["plusce"]
   }
 ]
