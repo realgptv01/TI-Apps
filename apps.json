@@ -4,8 +4,8 @@
     "version": "3.7.0",
     "description": "Cesium is a shell for the TI-84 Plus CE / TI-83 Premium CE calculators.",
     "downloadUrl": "https://raw.githubusercontent.com/realgptv01/TI-Apps/main/cesium_english.zx0.8xp",
-    "fileType": "8xp"
-    "imageUrl": "https://github.com/mateoconlechuga/cesium/raw/master/screenshots/screenshot_prgms.png"
+    "fileType": "8xp",
+    "imageUrl": "https://github.com/mateoconlechuga/cesium/raw/master/screenshots/screenshot_prgms.png",
     "compatibility": ["plusce"]
   },
   {
@@ -13,8 +13,8 @@
     "version": "2.1",
     "description": "arTIfiCE is a jailbreak for TI CE calculators. It brings back ASM programs and games!",
     "downloadUrl": "https://github.com/YvanTT/arTIfiCE/releases/download/v2.1/arTIfiCE_v2.1.8xp",
-    "fileType": "8xp"
-    "imageUrl": "https://raw.githubusercontent.com/YvanTT/arTIfiCE/refs/heads/master/images/artifice.gif"
+    "fileType": "8xp",
+    "imageUrl": "https://raw.githubusercontent.com/YvanTT/arTIfiCE/refs/heads/master/images/artifice.gif",
     "compatibility": ["plusce", "pluscse"]
   },
   {
@@ -22,8 +22,8 @@
     "version": "N/A",
     "description": "Pac-Man in the TI-84!",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/PacMan.zip",
-    "fileType": "zip"
-    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Pacman.webp"
+    "fileType": "zip",
+    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Pacman.webp",
     "compatibility": ["plusce", "pluscse"]
   },
   {
@@ -31,8 +31,8 @@
     "version": "N/A",
     "description": "I take no responsibility if you smash your calculator.",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Flappy%20Bird.zip",
-    "fileType": "zip"
-    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Flappy-Bird.webp"
+    "fileType": "zip",
+    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Flappy-Bird.webp",
     "compatibility": ["plusce"]
   },
   {
@@ -40,8 +40,8 @@
     "version": "N/A",
     "description": "From the phone to the calculator.",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Geometry%20Dash.zip",
-    "fileType": "zip"
-    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Geometry-Dash.webp"
+    "fileType": "zip",
+    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Geometry-Dash.webp",
     "compatibility": ["plusce"]
   },
   {
@@ -49,8 +49,8 @@
     "version": "N/A",
     "description": "It’s a-me, Mario!",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Oiram(Mario).zip",
-    "fileType": "zip"
-    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Mario.webp"
+    "fileType": "zip",
+    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Mario.webp",
     "compatibility": ["plusce"]
   }
 ]
