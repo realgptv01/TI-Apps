@@ -5,7 +5,7 @@
     "description": "Cesium is a shell for the TI-84 Plus CE / TI-83 Premium CE calculators.",
     "downloadUrl": "https://raw.githubusercontent.com/realgptv01/TI-Apps/main/cesium_english.zx0.8xp",
     "showVersion": true,
-    "author": "Mateo Con Lechuga"
+    "author": "Mateo Con Lechuga",
     "fileType": "8xp",
     "imageUrl": "https://github.com/mateoconlechuga/cesium/raw/master/screenshots/screenshot_prgms.png",
     "compatibility": ["plusce"]
@@ -16,7 +16,7 @@
     "description": "arTIfiCE is a jailbreak for TI CE calculators. It brings back ASM programs and games!",
     "downloadUrl": "https://github.com/YvanTT/arTIfiCE/releases/download/v2.1/arTIfiCE_v2.1.8xp",
     "showVersion": true,
-    "author": "YvanTT"
+    "author": "YvanTT",
     "fileType": "8xp",
     "imageUrl": "https://raw.githubusercontent.com/YvanTT/arTIfiCE/refs/heads/master/images/artifice.gif",
     "compatibility": ["plusce", "pluscse"]
@@ -27,7 +27,7 @@
     "description": "Pac-Man in the TI-84!",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/PacMan.zip",
     "showVersion": false,
-    "author": "Mateo Con Lechuga"
+    "author": "Mateo Con Lechuga",
     "fileType": "zip",
     "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Pacman.webp",
     "compatibility": ["plusce", "pluscse"]
@@ -38,7 +38,7 @@
     "description": "I take no responsibility if you smash your calculator.",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Flappy%20Bird.zip",
     "showVersion": false,
-    "author": "Rico"
+    "author": "Rico",
     "fileType": "zip",
     "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Flappy-Bird.webp",
     "compatibility": ["plusce"]
@@ -49,7 +49,7 @@
     "description": "From the phone to the calculator.",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Geometry%20Dash.zip",
     "showVersion": false,
-    "author": "Epharius"
+    "author": "Epharius",
     "fileType": "zip",
     "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Geometry-Dash.webp",
     "compatibility": ["plusce"]
@@ -60,7 +60,7 @@
     "description": "It’s a-me, Mario!",
     "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Oiram(Mario).zip",
     "showVersion": false,
-    "author": "Mateo Con Lechuga"
+    "author": "Mateo Con Lechuga",
     "fileType": "zip",
     "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Mario.webp",
     "compatibility": ["plusce"]
@@ -71,7 +71,7 @@
     "description": "Doom is the first doom-like in real 3D for ti83(+)!! It include basic monsters, some levels, and a real 3D motor... It also runs verry fast!",
     "downloadUrl": "https://www.ticalc.org/pub/83plus/asm/games/mirageos/doom83.zip",
     "showVersion": false,
-    "author": "Alexis GUINAMARD and Raphaël Siryani"
+    "author": "Alexis GUINAMARD and Raphaël Siryani",
     "fileType": "zip",
     "imageUrl": "https://www.ticalc.org/archives/files/ss/238/23868.gif",
     "compatibility": ["plusce"]
