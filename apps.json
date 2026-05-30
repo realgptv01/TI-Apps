@@ -71,9 +71,9 @@
     "description": "Doom is the first doom-like in real 3D for ti83(+)!! It include basic monsters, some levels, and a real 3D motor... It also runs verry fast!",
     "downloadUrl": "https://www.ticalc.org/pub/83plus/asm/games/mirageos/doom83.zip",
     "showVersion": false,
-    "author": "Alexis GUINAMARD and Raphaël Siryani",
+    "author": "Alexis Guinamard and Raphaël Siryani",
     "fileType": "zip",
     "imageUrl": "https://www.ticalc.org/archives/files/ss/238/23868.gif",
-    "compatibility": ["plusce"]
+    "compatibility": ["ti83p"]
   }
 ]
