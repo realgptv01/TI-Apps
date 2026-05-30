@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-# Current version: (Alpha 0.0.1)
+# Current version: (Alpha 0.0.2)
 
 # Note:
 All apps will be downloaded in English. Multi-language support will be implemented soon.
