@@ -86,13 +86,13 @@
   {
     "name": "MirageOS",
     "version": "1.2",
-    "description": "MirageOS is a Flash Application Shell that has revolutionized the TI-83 Plus with its many built-in features for the User and the Assembly Programmer. <br> <br> Review by Ben F: Mirage OS is one of the best shells for the Ti 83 plus/TI-84+. <br> <br> It works on all 83+/84+ calcs regardless of age, and runs programs with little issue. The only real problem I have is that the options menus are a bit obtuse to new users. <br> While many say that this program has been made irrelevant by DoorsCS7, I believe it offers a worthy alternative for calcs with warped displays or for people who just want a simple, archive compatible shell. <br> This gets a 9.1/10.",
+    "description": "MirageOS is a Flash Application Shell that has revolutionized the TI-83 Plus with its many built-in features for the User and the Assembly Programmer. <br> <br> Review by Ben F: <br> <br> Mirage OS is one of the best shells for the Ti 83 plus/TI-84+. <br> <br> It works on all 83+/84+ calcs regardless of age, and runs programs with little issue. <br> <br> The only real problem I have is that the options menus are a bit obtuse to new users. <br> <br> While many say that this program has been made irrelevant by DoorsCS7, I believe it offers a worthy alternative for calcs with warped displays or for people who just want a simple, archive compatible shell. <br> <br> This gets a 9.1/10.",
     "downloadUrl": "https://www.ticalc.org/pub/83plus/asm/games/mirageos/doom83.zip",
     "showVersion": true,
     "author": "Dan Englender and Jason Kovacs",
     "fileType": "zip",
     "imageUrl": "https://www.ticalc.org/archives/files/ss/238/23868.gif",
     "compatibility": ["plus"],
-    "category": "game"
+    "category": "utility"
   }
 ]
