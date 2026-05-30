@@ -36,15 +36,51 @@
     "category": "game"
   },
   {
+    "name": "Flappy Bird",
+    "version": "N/A",
+    "description": "I take no responsibility if you smash your calculator.",
+    "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Flappy%20Bird.zip",
+    "showVersion": false,
+    "author": "Rico",
+    "fileType": "zip",
+    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Flappy-Bird.webp",
+    "compatibility": ["plusce"],
+    "category": "game"
+  },
+  {
+    "name": "Geometry Dash",
+    "version": "N/A",
+    "description": "From the phone to the calculator.",
+    "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Geometry%20Dash.zip",
+    "showVersion": false,
+    "author": "Epharius",
+    "fileType": "zip",
+    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Geometry-Dash.webp",
+    "compatibility": ["plusce"],
+    "category": "game"
+  },
+  {
+    "name": "Mario",
+    "version": "N/A",
+    "description": "It’s a-me, Mario!",
+    "downloadUrl": "https://storage.googleapis.com/ti84calcwiz-plusce-games/Oiram(Mario).zip",
+    "showVersion": false,
+    "author": "Mateo Con Lechuga",
+    "fileType": "zip",
+    "imageUrl": "https://www.ti84calcwiz.com/wp-content/uploads/2019/07/Mario.webp",
+    "compatibility": ["plusce"],
+    "category": "game"
+  },
+  {
     "name": "DOOM",
     "version": "N/A",
-    "description": "Doom is the first doom-like in real 3D for ti83(+)!!",
+    "description": "Doom is the first doom-like in real 3D for ti83(+)!! It include basic monsters, some levels, and a real 3D motor... It also runs verry fast!",
     "downloadUrl": "https://www.ticalc.org/pub/83plus/asm/games/mirageos/doom83.zip",
     "showVersion": false,
     "author": "Alexis GUINAMARD and Raphaël Siryani",
     "fileType": "zip",
     "imageUrl": "https://www.ticalc.org/archives/files/ss/238/23868.gif",
-    "compatibility": ["plus"], 
+    "compatibility": ["plus"],
     "category": "game"
   }
 ]
