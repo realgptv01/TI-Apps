@@ -1,4 +1,5 @@
-# TI-Apps
+# TI Apps
+<img width="513" height="513" alt="TI Apps logo" src="https://github.com/user-attachments/assets/8f303cef-9fe8-4e6f-87a3-38e57988b438" />
 A downloader for apps for Texas Instruments calculators. NOT affiliated with TI.
 
 # Note:
