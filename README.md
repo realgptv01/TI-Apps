@@ -17,3 +17,7 @@ All apps will be downloaded in English. Multi-language support will be implement
 
 # Submit your app!
 Email me at realgptv01.contact@gmail.com to get your TI app on TI-Apps!
+
+## License
+This project is licensed under the GPL-3.0 License.  
+*Disclaimer: If you violate Section 1201 or lock down this software, Louis Rossmann will find you.*
