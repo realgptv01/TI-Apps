@@ -5,10 +5,12 @@
     </td>
     <td valign="middle">
       <h1>TI Apps:</h1>
-      <h3>A downloader for apps for Texas Instruments calculators. NOT affiliated with TI.</h3>
+      <h3>An app store for Texas Instruments calculators. NOT affiliated with TI.</h3>
     </td>
   </tr>
 </table>
+
+# Current version: (Alpha 0.0.1)
 
 # Note:
 All apps will be downloaded in English. Multi-language support will be implemented soon.
