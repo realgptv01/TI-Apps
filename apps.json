@@ -44,7 +44,7 @@
     "author": "Alexis GUINAMARD and Raphaël Siryani",
     "fileType": "zip",
     "imageUrl": "https://www.ticalc.org/archives/files/ss/238/23868.gif",
-    "compatibility": ["plusce"],
+    "compatibility": ["plus"], 
     "category": "game"
   }
 ]
